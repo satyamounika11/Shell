@@ -1,2 +1,4 @@
 # Shell
-Schell Scripts can be seen here.
+Shell Scripts can be seen here.
+
+Test for Git Fetch and Git Pull.
